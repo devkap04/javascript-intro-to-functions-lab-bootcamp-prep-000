@@ -14,4 +14,7 @@ function sayHiToGrandma(string) {
   console.log(whisper)
   return "I can\'t hear you!"
 }
-
+function sayHiToGrandma(string) {
+  console.log(shout)
+  return "YES INDEED!"
+}
